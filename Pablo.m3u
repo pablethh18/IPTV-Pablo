@@ -1,4 +1,5 @@
 #EXTM3U
+TV
 #EXTINF:-1 tvg-id="1081" tvg-name="AnimeStation" tvg-logo="https://i.paste.pics/ec7eaf6d3c0e46696ab854a63a6fece8.png", AnimeStation * | AR
 https://stream.ichibantv.ga:3741/live/aniplustvlive.m3u8
 #EXTINF:-1 tvg-id="1019" tvg-name="Latino Kids TV" tvg-logo="https://i2.paste.pics/1902290cf19fb0c3de2fa9fa9a03a396.png", Latino Kids TV * | UY
@@ -41,22 +42,19 @@ https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="24" tvg-name="Music Top" tvg-logo="https://lh3.googleusercontent.com/-jyK2QfeF7tk/YBShx6dT-eI/AAAAAAAA_k4/gq6qGMH-1UAurScNL4TayXfEA47gA1ljgCK8BGAsYHg/s0/2021-01-29.png", Music Top | AR
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-country="AR" tvg-language="Spanish" tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png" user-agent="iPhone" group-title="General",América TV | AR
-#EXTVLCOPT:http-user-agent=iPhone
+#EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png" group-title="TV Aire" , América TV | AR
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
-#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-country="HISPAM;ES" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/AnimeZoneXTV/picture?width=300&height=300" group-title="Animation",Anime Zone TV (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-logo="https://graph.facebook.com/AnimeZoneXTV/picture?width=300&height=300" group-title="Animation" , Anime Zone TV [No 24/7]
 http://azxtv.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="BuinSomosTodos.cl" tvg-country="CL" tvg-language="Spanish" tvg-logo="" group-title="Local",Buin Somos Todos (720p) [Not 24/7]
-https://bst.buin.cl/0.m3u8
-#EXTINF:-1 tvg-id="LocomotionTV.do" tvg-country="HISPAM;ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/auEJJvP.png" group-title="Animation",Locomotion TV (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="LocomotionTV.do" tvg-logo="https://i.imgur.com/auEJJvP.png" group-title="Anime" , Locomotion TV [No 24/7]
 http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---RAI.png" group-title="CD Cd Aut Bs As",Rai 3 - CTV - CABA TV Cable - CD Cd Aut Bs As
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---RAI.png" group-title="Noticiero" , Rai 3
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0024
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---RAI.png" group-title="CD Cd Aut Bs As",Rai News24 - CTV - CABA TV Cable - CD Cd Aut Bs As
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---RAI.png" group-title="Noticiero" , Rai News24
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0025
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITELESU.png" group-title="CD Cd Aut Bs As",Telesur - 25.4 TV - CABA TV TDA - CD Cd Aut Bs As
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITELESU.png" group-title="Noticiero" , Telesur
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0045
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITELEFE.png" group-title="CD Cd Aut Bs As",LS84 Telefe - 34.1 TV - CABA TV TDA - CD Cd Aut Bs As
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITELEFE.png" group-title="TV Aire" , Telefe
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0051
 #EXTINF:-1 channel-id="pluto-5dcdde78f080d900098550e4" tvg-id="5dcdde78f080d900098550e4" tvg-chno="60" tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png" group-title="Películas" , Pluto TV Cine Comedia
 https://i.mjh.nz/PlutoTV/5dcdde78f080d900098550e4-alt.m3u8
@@ -112,19 +110,17 @@ https://i.mjh.nz/PlutoTV/631fb6be21b7440007b9f606-alt.m3u8
 https://i.mjh.nz/PlutoTV/6322099c822bbc00074857db-alt.m3u8
 #EXTINF:-1 channel-id="pluto-636e83511fa9600007e5ae19" tvg-id="636e83511fa9600007e5ae19" tvg-chno="719" tvg-logo="https://images.pluto.tv/channels/636e83511fa9600007e5ae19/colorLogoPNG.png" group-title="Kids" , Pluto TV Anime Kids
 https://i.mjh.nz/PlutoTV/636e83511fa9600007e5ae19-alt.m3u8
-
-
+ 
 Radio
-#EXTINF:0 group-title=N/A,Nacional rock, Nacional Rock |AR
+#EXTINF:0 tvg-name="Nacional Rock" , Nacional Rock
 http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad39
-#EXTINF:-1 tvg-name="El Destape", El Destape | AR
+#EXTINF:-1 tvg-name="El Destape", El Destape
 https://ipanel.instream.audio/8004/stream
-#EXTINF:-1 tvg-name="Aspen", Aspen | AR
+#EXTINF:-1 tvg-name="Aspen" , Aspen
 https://mdstrm.com/audio/60a2745ff943100826374a70/icecast.audio
-#EXTINF:-1 tvg-name="La 100", La 100 | AR
+#EXTINF:-1 tvg-name="La 100" , La 100
 https://playerservices.streamtheworld.com/api/livestream-redirect/FM999_56.mp3
-#EXTINF:0 group-title=N/A,Los 40
+#EXTINF:0 tvg-name="Los 40" , Los 40
 http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ARGENTINA_SC
-#EXTINF:0 group-title=N/A,Mega 98.3
+#EXTINF:0 tvg-name="Mega 98.3" , Mega 98.3
 https://mega.stweb.tv/mega983/live/chunks.m3u8
-

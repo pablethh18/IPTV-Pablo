@@ -30,7 +30,7 @@ http://168.228.194.32:58001/play/a0bb/index.m3u8
 #EXTINF: -1 tvg-logo="https://e7.pngegg.com/pngimages/1002/931/png-clipart-espn-espn3-logo-espn-events-tcm-logo-miscellaneous-television.png" group-title="Deportes", ESPN +
 http://190.211.175.161:50000/play/a00v/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Espnhd.png" group-title="Deportes", ESPN HD
-http://45.170.225.210:58001/play/a015/index.m3u8
+http://45.189.117.32:7075/play/a0t3/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.pikpng.com/pngl/m/202-2027348_espn-resize-espn2-png-clipart.png" group-title="Deportes", ESPN 2 HD
 http://45.170.225.210:58001/play/a017/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes", ESPN 3 HD
@@ -151,6 +151,12 @@ http://45.170.225.210:58001/play/a03b/index.m3u8
 http://45.170.225.210:58001/play/a03a/index.m3u8
 #EXTINF: -1 tvg-id="5dcdde78f080d900098550e4" tvg-chno="60" tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png" group-title="Películas y Series", Cine Comedia
 https://i.mjh.nz/PlutoTV/5dcdde78f080d900098550e4-alt.m3u8
+#EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinefamiliar.png" group-title="Películas y Series", Cine Familiar HD
+http://45.170.243.55:4000/play/1120/index.m3u8
+#EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinehispano.png" group-title="Películas y Series", Cine Hispano HD
+http://45.170.243.55:4000/play/1121/index.m3u8
+#EXTINF:-1 tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/02/cinepremium.png" group-title="Películas y Series", Cine Premium HD
+http://45.170.243.55:4000/play/1119/index.m3u8
 #EXTINF: -1 tvg-id="5ddc4e8bcbb9010009b4e84f" tvg-chno="69" tvg-logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/colorLogoPNG.png" group-title="Películas y Series", Cine Suspenso
 https://i.mjh.nz/PlutoTV/5ddc4e8bcbb9010009b4e84f-alt.m3u8
 #EXTINF: -1 tvg-id="5dcddf1ed95e740009fef7ab" tvg-chno="72" tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png" group-title="Películas y Series", Cine Terror
@@ -254,7 +260,7 @@ http://45.170.225.210:58001/play/a037/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Warner_Channel_HD.svg/1200px-Warner_Channel_HD.svg.png" group-title="Películas y Series", Warner Channel HD
 http://45.170.225.210:58001/play/a01r/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Warner2018LA_%282%29.png/526px-Warner2018LA_%282%29.png" group-title="Películas y Series", Warner Channel 2 HD
-http://190.61.55.186:1010/play/a01h/index.m3u8
+http://45.170.243.23:4000/play/a007/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Warner_Channel_HD.svg/1200px-Warner_Channel_HD.svg.png" group-title="Películas y Series", Warner Channel 3 HD
 http://190.90.251.194:8921/play/a006/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Entretenimiento", Animal Planet
@@ -262,7 +268,7 @@ http://45.236.104.228:7010/play/a01e/index.m3u8
 #EXTINF: -1 tvg-id="6109a9f5531b840007a4a187" tvg-chno="304" tvg-logo="https://images.pluto.tv/channels/6109a9f5531b840007a4a187/colorLogoPNG.png" group-title="Entretenimiento", Cazador de Homicidas
 https://i.mjh.nz/PlutoTV/6109a9f5531b840007a4a187-alt.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="Entretenimiento", Comedy Central HD
-http://45.5.119.155:8000/play/a0hy/index.m3u8
+http://45.189.117.32:7075/play/a0qj/index.m3u8
 #EXTINF: -1 tvg-id="5ffcc21a432945000762d06b" tvg-chno="509" tvg-logo="https://images.pluto.tv/channels/5ffcc21a432945000762d06b/colorLogoPNG.png" group-title="Entretenimiento", Comedy Central
 https://i.mjh.nz/PlutoTV/5ffcc21a432945000762d06b-alt.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png" group-title="Entretenimiento", Discovery Channel HD
@@ -311,6 +317,10 @@ http://45.5.119.155:8000/play/a0gm/index.m3u8
 http://45.5.119.155:8000/play/a0gd/index.m3u8
 #EXTINF: -1 tvg-id="24" tvg-name="Music Top" tvg-logo="https://lh3.googleusercontent.com/-jyK2QfeF7tk/YBShx6dT-eI/AAAAAAAA_k4/gq6qGMH-1UAurScNL4TayXfEA47gA1ljgCK8BGAsYHg/s0/2021-01-29.png" group-title="Música", Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1,tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png" group-title="Música", Retro Plus Musica 1
+http://45.170.243.55:4000/play/1113/index.m3u8
+#EXTINF:-1,tvg-logo="https://i2.paste.pics/d35132c511d1ef461b3e4af7db9e0b5f.png" group-title="Música", Retro Plus Musica 2
+http://45.170.243.55:4000/play/1114/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Stingray-classica-alternative-logo.png" group-title="Música", Stingray Classica
 https://watchtv-raw.ott-channels.stingray.com/classica/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Stingray-classica-alternative-logo.png" group-title="Música", Stingray Classica 2

@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF: -1 tvg-id="AmericaTV.ar" tvg-logo="https://cdn.mitvstatic.com/channels/ar_america-2-capital_m.png" group-title="Aire", América TV
-http://rasaiptv.com:8080/Mddlistanr/Kejrb837374/81276
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/52536.ts
 #EXTINF: -1 tvg-id="290" tvg-name="Telecreativa" tvg-logo="https://lh3.googleusercontent.com/-Gm_Ms3sI_Q4/XrYQujqJHII/AAAAAAAA0iw/dsg5W2kHZPAp1MDPFrwp7rwQ0DO12IdXACK8BGAsYHg/s0/2020-05-08.png" group-title="Aire", Telecreativa [No 24/7]
 https://panel.dattalive.com:443/8012/8012/playlist.m3u8?PlaylistM3UCL
 #EXTINF: -1 tvg-id="TVPublica.ar" tvg-logo="https://i.imgur.com/XGrkzN3.png" group-title="Aire", TV Pública
@@ -14,11 +14,11 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF: -1 tvg-id="A24.ar" tvg-logo="https://i.imgur.com/LnXQkIU.png" group-title="Noticiero", A24
 https://ythls.onrender.com/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 #EXTINF: -1 tvg-id="C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/1200px-C5N_logo.svg.png" group-title="Noticiero", C5N
-http://rasaiptv.com:8080/Mddlistanr/Kejrb837374/81273
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/52535.ts
 #EXTINF: -1 tvg-id="271" tvg-name="Canal 26" tvg-logo="https://lh3.googleusercontent.com/-upOIb0AvBg0/XjtEI-xHv-I/AAAAAAAAvpU/FspdVLDoi4IlDUMrNT_XFBLBNKsuILKrQCK8BGAsYHg/s0/2020-02-05.png" group-title="Noticiero", Canal 26
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF: -1 tvg-id="CNNenEspanol.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="Noticiero", CNN en Español
-http://rasaiptv.com:8080/Mddlistanr/Kejrb837374/63073
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/299987.ts
 #EXTINF: -1 tvg-id="CronicaTV.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Cr%C3%B3nica_TV_logotipo_%282008-2015%29.png" group-title="Noticiero", Crónica TV
 https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/Playlist.m3u8
 #EXTINF: -1 tvg-id="1361" tvg-name="La Nacion+" tvg-logo="https://i.paste.pics/a8990e8f3817f4ed5762495c1acd96d7.png" group-title="Noticiero", La Nacion+
@@ -32,29 +32,29 @@ http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/66631.ts
 #EXTINF: -1 tvg-name="Directv Sports 2" tvg-logo="https://www.foromedios.com/uploads/monthly_2018_03/large.DirecTVSports2.png.9e992836aff6b46175da9e7fa4249c63.png" group-title="Deportes", Direc Sports 2
 http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/49018.ts
 #EXTINF: -1 tvg-logo="https://e7.pngegg.com/pngimages/1002/931/png-clipart-espn-espn3-logo-espn-events-tcm-logo-miscellaneous-television.png" group-title="Deportes", ESPN +
-http://rasaiptv.com:8080/Mddlistanr/Kejrb837374/228203
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/48989.ts
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/Espnhd.png" group-title="Deportes", ESPN HD
-http://rasaiptv.com:8080/Mddlistanr/Kejrb837374/81256
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/113714.ts
 #EXTINF: -1 tvg-logo="https://www.pikpng.com/pngl/m/202-2027348_espn-resize-espn2-png-clipart.png" group-title="Deportes", ESPN 2 HD
-http://rasaiptv.com:8080/Mddlistanr/Kejrb837374/81258
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/48967.ts
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes", ESPN 3 HD
-http://rasaiptv.com:8080/Mddlistanr/Kejrb837374/68
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/49007.ts
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" group-title="Deportes", ESPN 4 HD
-http://45.189.117.202:48000/play/a00j/index.m3u8
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/137845.ts
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/2560px-ESPN_Premium_logo.svg.png" group-title="Deportes", ESPN Premium
-http://rasaiptv.com:8080/Mddlistanr/Kejrb837374/81254
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/165275.ts
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="Deportes", FOX Sports HD
-http://rasaiptv.com:8080/Mddlistanr/Kejrb837374/84
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/48959.ts
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1200px-2015_Fox_sports_logo.svg.png" group-title="Deportes", FOX Sports 2 HD
-http://rasaiptv.com:8080/Mddlistanr/Kejrb837374/81
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/66643.ts
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png" group-title="Deportes", FOX Sports 3 HD
-http://rasaiptv.com:8080/Mddlistanr/Kejrb837374/78
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/48963.ts
 #EXTINF: -1 tvg-name="T&C Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/2560px-TyC_Sports_logo.svg.png" group-title="Deportes", T&C Sports HD
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
-#EXTINF: -1 tvg-name="T&C Sports HD" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tyc-sports-internacional-1246.png" group-title="Deportes", T&C Sports Internacional HD
-http://rasaiptv.com:8080/Mddlistanr/Kejrb837374/1380
+#EXTINF: -1 tvg-name="T&C Sports Internacion HD" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tyc-sports-internacional-1246.png" group-title="Deportes", T&C Sports Internacional HD
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/48997.ts
 #EXTINF: -1 tvg-name="TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="Deportes", TNT Sports
-http://rasaiptv.com:8080/Mddlistanr/Kejrb837374/81250
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/48995.ts
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/BitMe_logo.svg/2560px-BitMe_logo.svg.png" group-title="Dibujos Animados", Bit Me HD
 http://45.189.117.202:48000/play/a01w/index.m3u8
 #EXTINF: -1 tvg-id="6254598f5083f800076d8563" tvg-chno="726" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png" group-title="Dibujos Animados", Bob Esponja Pantalones Cuadrados
@@ -62,15 +62,15 @@ https://i.mjh.nz/PlutoTV/6254598f5083f800076d8563-alt.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Cartoon_Network_HD_logo.svg" group-title="Dibujos Animados", Cartoon Network HD
 http://190.61.44.122:8000/play/a02i/index.m3u8
 #EXTINF: -1 tvg-name="Cartoon Network 2 HD" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/1/12/Cartoon_Network_2.png" group-title="Dibujos Animados", Cartoon Network 2 HD
-http://rasaiptv.com:8080/Mddlistanr/Kejrb837374/132707
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/323869.ts
 #EXTINF: -1 tvg-id="CartoonitoMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/512px-Cartoonito_-_Logo_2021.svg.png" group-title="Dibujos Animados", Cartoonito México
-http://hidra.live:80/xaehsalg/454K7nBmkn/312751
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/323873.ts
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="Dibujos Animados", Discovery Kids
-http://rasaiptv.com:8080/Mddlistanr/Kejrb837374/132701
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/323863.ts
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Disney_Channel_logo.svg/2560px-Disney_Channel_logo.svg.png" group-title="Dibujos Animados", Disney
-http://rasaiptv.com:8080/Mddlistanr/Kejrb837374/132699
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/323871.ts
 #EXTINF: -1 tvg-logo="https://w7.pngwing.com/pngs/94/960/png-transparent-logo-disney-junior-the-walt-disney-company-playhouse-disney-channel-disney-junior-text-logo-snout.png" group-title="Dibujos Animados", Disney JR
-http://rasaiptv.com:8080/Mddlistanr/Kejrb837374/132697
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/323862.ts
 #EXTINF: -1 tvg-id="5f9996533c9de3000759ccb5" tvg-chno="707" tvg-logo="https://images.pluto.tv/channels/5f9996533c9de3000759ccb5/colorLogoPNG.png" group-title="Dibujos Animados", Las Pistas de Blue
 https://i.mjh.nz/PlutoTV/5f9996533c9de3000759ccb5-alt.m3u8
 #EXTINF: -1 tvg-id="6322099c822bbc00074857db" tvg-chno="727" tvg-logo="https://images.pluto.tv/channels/6322099c822bbc00074857db/colorLogoPNG-1667576393608.png" group-title="Dibujos Animados", Los Padrinos Mágicos
@@ -82,11 +82,11 @@ https://kali.vdopanel.com:3070/stream/play.m3u8
 #EXTINF: -1 tvg-id="5ddd7c348520b40009c347e2" tvg-chno="730" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" group-title="Dibujos Animados", Nick Clásico
 https://i.mjh.nz/PlutoTV/5ddd7c348520b40009c347e2-alt.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Nick_HD.png/640px-Nick_HD.png" group-title="Dibujos Animados", Nick HD
-http://rasaiptv.com:8080/Mddlistanr/Kejrb837374/132711
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/166507.ts
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/87/Nick_2_Logo_alternative.png" group-title="Dibujos Animados", Nick 2 HD
-http://rasaiptv.com:8080/Mddlistanr/Kejrb837374/132691
+http://45.5.118.226:8000/play/a03f/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Nick_Jr._logo_2009.svg" group-title="Dibujos Animados", Nick Jr.
-http://rasaiptv.com:8080/Mddlistanr/Kejrb837374/132693
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/323865.ts
 #EXTINF: -1 tvg-id="5fab09a8749b1a00077d35d2" tvg-chno="176" tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG-1662394157103.png" group-title="Dibujos Animados", Nick Teen
 https://i.mjh.nz/PlutoTV/5fab09a8749b1a00077d35d2-alt.m3u8
 #EXTINF: -1 tvg-id="206" tvg-name="Paka Paka" tvg-logo="https://lh3.googleusercontent.com/-3taeZ4Ccgoo/YFtYdnexZ1I/AAAAAAABA34/XQbvaa0gNhU7nyexHLKQF6o4ybBuc3LNQCK8BGAsYHg/s512/2021-03-24.jpg" group-title="Dibujos Animados", Paka Paka
@@ -102,9 +102,9 @@ https://i.mjh.nz/PlutoTV/5ea7215005d66d0007e8128a-alt.m3u8
 #EXTINF: -1 tvg-id="609ae5cd48d3200007b0a98e" tvg-chno="511" tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG.png" group-title="Dibujos Animados", South Park
 https://i.mjh.nz/PlutoTV/609ae5cd48d3200007b0a98e-alt.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/TeenNick_logo_2009.svg/2560px-TeenNick_logo_2009.svg.png" group-title="Dibujos Animados", Teen Nick HD
-http://45.5.117.172:8000/play/a03f/index.m3u8
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/166505.ts
 #EXTINF: -1 tvg-logo="https://cn.i.cdn.ti-platform.com/content/1293/tooncast/showpage/ar/showlogo.ca8dd28c.png" group-title="Dibujos Animados", Tooncast
-http://rasaiptv.com:8080/Mddlistanr/Kejrb837374/132709
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/131731.ts
 #EXTINF: -1 tvg-id="1081" tvg-name="AnimeStation" tvg-logo="https://i.paste.pics/ec7eaf6d3c0e46696ab854a63a6fece8.png" group-title="Anime", AnimeStation
 https://stream.ichibantv.ga:3741/live/aniplustvlive.m3u8
 #EXTINF: -1 tvg-id="488" tvg-name="Anime Zone TV" tvg-logo="https://azxtv.com/aztv.png" group-title="Anime", Anime Zone TV
@@ -116,41 +116,43 @@ https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8
 #EXTINF: -1 tvg-id="50" tvg-name="Locomotion" tvg-logo="https://lh3.googleusercontent.com/-_ywhP_VEj2g/XssbwC8yLuI/AAAAAAAA1Ik/fb6iyQQcz6ovOW4alzHoN8-hIwt6eACIACK8BGAsYHg/s0/2020-05-24.png" group-title="Anime", Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="Películas y Series", AMC HD
-http://rasaiptv.com:8080/Mddlistanr/Kejrb837374/1283
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/324326.ts
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/2560px-AXN_logo_%282015%29.svg.png" group-title="Películas y Series", AXN HD
 http://45.169.99.154:58001/play/a02p/index.m3u8
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/9/94/AXN2_Gau_1997.png/revision/latest?cb=20190827032734" group-title="Películas y Series", AXN 2 HD
-http://rasaiptv.com:8080/Mddlistanr/Kejrb837374/1254
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/324319.ts
 #EXTINF: -1 tvg-id="CineAr.ar" tvg-logo="https://i.imgur.com/Iozv4tT.png" group-title="Películas y Series", CINE.AR [No 24/7]
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Películas y Series", Cinecanal HD
-http://rasaiptv.com:8080/Mddlistanr/Kejrb837374/1251
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/124042.ts
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="Películas y Series", CineMax
-http://rasaiptv.com:8080/Mddlistanr/Kejrb837374/7
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="Películas y Series", DePeliculaHD
-http://45.189.117.202:48000/play/a02b/index.m3u8
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/324325.ts
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" group-title="Películas y Series", DePelicula HD
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/113717.ts
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/De_Pel%C3%ADcula_Cl%C3%A1sico.png" group-title="Películas y Series", DePelicula HD Clasico
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/113718.ts
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/2560px-FX_International_logo.svg.png" group-title="Películas y Series", FX HD
-http://rasaiptv.com:8080/Mddlistanr/Kejrb837374/1274
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/324317.ts
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/FX_Movies_logo.svg/1200px-FX_Movies_logo.svg.png" group-title="Películas y Series", FX Movies HD
 http://45.5.117.172:8000/play/a0gx/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png" group-title="Películas y Series", Golden
-http://rasaiptv.com:8080/Mddlistanr/Kejrb837374/1286
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/46884.ts
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png" group-title="Películas y Series", Golden Edge
 http://rasaiptv.com:8080/Mddlistanr/Kejrb837374/1289
 #EXTINF: -1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_11/large.goldenpremier2020.png.2024c621ca5d1e6b0488da33f5375ff6.png" group-title="Películas y Series", Golden Premiere HD
-http://rasaiptv.com:8080/Mddlistanr/Kejrb837374/1293
+http://45.169.99.154:58001/play/a022/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_11/large.goldenpremier2020.png.2024c621ca5d1e6b0488da33f5375ff6.png" group-title="Películas y Series", Golden Premiere 2 HD
 http://45.169.99.154:58001/play/a023/index.m3u8
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVhBhkd-7Q5v__eH6dCodeVkdhc4ulVQi7x1SHGdTykADJ5M-7OJzmZaSyFiWxH6RSnAY&usqp=CAU" group-title="Películas y Series", HBO HD
-http://rasaiptv.com:8080/Mddlistanr/Kejrb837374/55
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/121628.ts
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="Películas y Series", HBO 2 HD
-http://rasaiptv.com:8080/Mddlistanr/Kejrb837374/43
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/121627.ts
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlsnPrfY09aClriQ1dEMDn7bvoH1FY9JwYtMUWaCSUX84Qt2qXFOramLyUwzJBu5mVz2g&usqp=CAU" group-title="Películas y Series", HBO Family HD
-http://rasaiptv.com:8080/Mddlistanr/Kejrb837374/52
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/121630.ts
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="Películas y Series", HBO Plus HD
-http://rasaiptv.com:8080/Mddlistanr/Kejrb837374/49
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/121636.ts
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="Películas y Series", HBO Xtreme HD
-http://45.5.117.172:8000/play/a0l6/index.m3u8
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/121639.ts
 #EXTINF: -1 tvg-id="620ff0a01f9e8700076c6f9d" tvg-chno="178" tvg-logo="https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png" group-title="Películas y Series", iCarly
 https://i.mjh.nz/PlutoTV/620ff0a01f9e8700076c6f9d-alt.m3u8
 #EXTINF: -1 tvg-id="5fcea93ffcf94500071c4b2f" tvg-chno="177" tvg-logo="https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png" group-title="Películas y Series", Kenan y Kel
@@ -166,53 +168,53 @@ https://scl.edge.grupoz.cl/movie/live/movie.m3u8?PlaylistM3UCL
 #EXTINF: -1 tvg-id="465" tvg-name="Retro Plus TV" tvg-logo="https://pbs.twimg.com/profile_images/1624983198198374400/A4IEUgtz_400x400.jpg" group-title="Películas y Series", Retro Plus TV 3
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8?PlaylistM3UCL
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Películas y Series", Sony HD
-http://rasaiptv.com:8080/Mddlistanr/Kejrb837374/1263
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/121644.ts
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Películas y Series", Sony 2 HD
 http://45.169.99.154:58001/play/a02l/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/2042px-Sony_Movies_Logo.svg.png" group-title="Películas y Series", Sony Movies HD
 http://motivatv.club:80/play/1fzVEWQeSAmq5JmdEbQT87CK8XUJiZlcMB6syVMQxZM
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png" group-title="Películas y Series", Space HD
-http://rasaiptv.com:8080/Mddlistanr/Kejrb837374/1281
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/121650.ts
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/1280px-SpaceLogo.svg.png" group-title="Películas y Series", Space 2 HD
-http://190.61.44.122:8000/play/a02c/index.m3u8
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/121647.ts
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg" group-title="Películas y Series", Star Channel HD
-http://rasaiptv.com:8080/Mddlistanr/Kejrb837374/30
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/110646.ts
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png" group-title="Películas y Series", Studio Universal HD
-http://45.5.117.172:8000/play/a0go/index.m3u8
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/121689.ts
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/TBS_logo_2016.svg/1200px-TBS_logo_2016.svg.png" group-title="Películas y Series", TBS
-http://motivatv.club:80/play/1fzVEWQeSAmq5JmdEbQT83KnzbytoR3dMp0yao94diM
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/121706.ts
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="Películas y Series", TCM
-http://rasaiptv.com:8080/Mddlistanr/Kejrb837374/1266
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/121696.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/PCtEVPc.jpg" group-title="Películas y Series", Teleclasica
 https://ssh101.bozztv.com/ssh101/teleclasik/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png" group-title="Películas y Series", TNT HD
-http://rasaiptv.com:8080/Mddlistanr/Kejrb837374/1245
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/324320.ts
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="Películas y Series", TNT 2 HD
 http://45.5.117.172:8000/play/a0hu/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/TNT_Serie_HD_Logo_2016.png" group-title="Películas y Series", TNT Series HD
-http://rasaiptv.com:8080/Mddlistanr/Kejrb837374/1247
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/121700.ts
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1200px-Universal_Channel_Logo_2013.svg.png" group-title="Películas y Series", Universal
-http://rasaiptv.com:8080/Mddlistanr/Kejrb837374/1269
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/324321.ts
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png" group-title="Películas y Series", Universal Cinema HD
-http://45.5.117.172:8000/play/a0kt/index.m3u8
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/136173.ts
 #EXTINF: -1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1490211344_UniversalComedy-Claro.png.94d588e2c343e4a92a6cc6701d60811e.png" group-title="Películas y Series", Universal Comedy HD
-http://45.5.117.172:8000/play/a0i5/index.m3u8
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/137844.ts
 #EXTINF: -1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.701883225_UniversalCrime-Claro.png.3d4d66da49a1f994538e8a81b24abde3.png" group-title="Películas y Series", Universal Crime HD
-http://45.5.117.172:8000/play/a0i4/index.m3u8
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/136174.ts
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png" group-title="Películas y Series", Universal Premiere HD
-http://45.5.117.172:8000/play/a0i1/index.m3u8
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/136175.ts
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png" group-title="Películas y Series", Universal Premiere O HD
 http://45.5.117.172:8000/play/a0i2/index.m3u8
 #EXTINF: -1 tvg-logo="https://www.foromedios.com/uploads/monthly_2022_03/large.1365450986_UniversalReality-Claro.png.7d6eeaa83b77834a29fc03cb8f88ff63.png" group-title="Películas y Series", Universal Reality HD
-http://45.169.99.154:58001/play/a01x/index.m3u8
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/137607.ts
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Volver01.png" group-title="Películas y Series", Volver
-http://rasaiptv.com:8080/Mddlistanr/Kejrb837374/81275
+http://sevi.2022spn.net:8080/95341996CARLOS/95341996/12297
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Warner_Channel_HD.svg/1200px-Warner_Channel_HD.svg.png" group-title="Películas y Series", Warner Channel HD
-http://rasaiptv.com:8080/Mddlistanr/Kejrb837374/1259
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/324315.ts
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Warner2018LA_%282%29.png/526px-Warner2018LA_%282%29.png" group-title="Películas y Series", Warner Channel 2 HD
 http://45.169.99.154:58001/play/a02k/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Entretenimiento", Animal Planet
-http://rasaiptv.com:8080/Mddlistanr/Kejrb837374/54172
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/323866.ts
 #EXTINF: -1 tvg-id="6109a9f5531b840007a4a187" tvg-chno="304" tvg-logo="https://images.pluto.tv/channels/6109a9f5531b840007a4a187/colorLogoPNG.png" group-title="Entretenimiento", Cazador de Homicidas
 https://i.mjh.nz/PlutoTV/6109a9f5531b840007a4a187-alt.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="Entretenimiento", Comedy Central HD
@@ -220,9 +222,9 @@ http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/169604.ts
 #EXTINF: -1 tvg-id="5ffcc21a432945000762d06b" tvg-chno="509" tvg-logo="https://images.pluto.tv/channels/5ffcc21a432945000762d06b/colorLogoPNG.png" group-title="Entretenimiento", Comedy Central
 https://i.mjh.nz/PlutoTV/5ffcc21a432945000762d06b-alt.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/2560px-Discovery_Channel_-_Logo_2019.svg.png" group-title="Entretenimiento", Discovery Channel HD
-http://rasaiptv.com:8080/Mddlistanr/Kejrb837374/53457
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/85726.ts
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="Entretenimiento", Discovery ID HD
-http://rasaiptv.com:8080/Mddlistanr/Kejrb837374/53463
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/324316.ts
 #EXTINF: -1 tvg-id="Encuentro.ar" tvg-logo="https://i.imgur.com/uBBZR1X.png" group-title="Entretenimiento", Encuentro
 https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
 #EXTINF: -1 tvg-id="240" tvg-name="GEN TV" tvg-logo="https://lh3.googleusercontent.com/-C5rX_zRruQw/X1TKqOXYS-I/AAAAAAAA5UA/IOKCb1AwbRsqtVnLmUBAvTj-8pnxmF7MgCK8BGAsYHg/s0/2020-09-06.png" group-title="Entretenimiento", GEN TV
@@ -232,11 +234,11 @@ https://i.mjh.nz/PlutoTV/5f4d3696d938c900072679fd-alt.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/History_HD_Logo.svg/1200px-History_HD_Logo.svg.png" group-title="Entretenimiento", History Channel HD
 http://45.5.117.172:8000/play/a0gk/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg" group-title="Entretenimiento", History Channel 2 HD
-http://rasaiptv.com:8080/Mddlistanr/Kejrb837374/53482
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/323870.ts
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/1984px-History2_logo_%282022%29.svg.png" group-title="Entretenimiento", History 2
-http://rasaiptv.com:8080/Mddlistanr/Kejrb837374/53488
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/166489.ts
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png" group-title="Entretenimiento", Nat Geo HD
-http://rasaiptv.com:8080/Mddlistanr/Kejrb837374/53491
+http://tv.dominiotv.xyz:25461/live/FunkRestream/TuqAY7Esqb/129773.ts
 #EXTINF: -1 tvg-id="493" tvg-name="Net TV" tvg-logo="https://lh3.googleusercontent.com/-NM-pmtTnvh0/XpNaN_29WCI/AAAAAAAAx1Q/VKhqWlMKOBAP6YkJdg7LV4_O44xn8gdwACK8BGAsYHg/s0/2020-04-12.png" group-title="Entretenimiento", Net TV
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF: -1 tvg-id="1372" tvg-name="Urbana TeVe" tvg-logo="https://i.paste.pics/bc45740f1e3774c663644d7488cfee08.png" group-title="Entretenimiento", Urbana TeVe
